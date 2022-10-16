@@ -80,7 +80,7 @@ class _MyAppState extends State<MyApp> {
               image: AssetImage("assets/images/200w.gif"),
               fit: BoxFit.cover)),**/
       home: Scaffold(
-          backgroundColor: Colors.white,
+          backgroundColor: Colors.amber,
           appBar: AppBar(
             centerTitle: true,
             title: Text('Quiz App'),
